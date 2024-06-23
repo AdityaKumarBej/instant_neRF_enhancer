@@ -1,2 +1,2 @@
 # instant_neRF_enhancer
-NVIDIA's instant neRF enhancer with VR for the Berkely Hackathon
+Utilizing NVIDIA's NeRF enhancer with image enhancements and custom datasets with VR for the Berkely Hackathon
